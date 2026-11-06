@@ -1,8 +1,8 @@
 const QUICK_LINKS = [
-  { label: "GitHub", href: "https://github.com/a-nayem", icon: "⚡" },
+  { label: "GitHub", href: "https://github.com/a-nayem", icon: ":octocat:" },
   { label: "Trisien Automence", href: "https://trisien-automence.vercel.app", icon: "🌐" },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/cyber-a-n/", icon: "🔗" },
-  { label: "Instagram", href: "https://instagram.com/cyber_a.n_", icon: "📡" },
+  { label: "Instagram", href: "https://instagram.com/cyber_a.n_", icon: "💬" },
   { label: "Cal.com", href: "https://cal.com/alifnayem-j98vjt", icon: "📅" },
   { label: "Claude", href: "https://claude.ai/new", icon: "👾" },
 ];
