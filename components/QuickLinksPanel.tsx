@@ -1,5 +1,5 @@
 const QUICK_LINKS = [
-  { label: "GitHub", href: "https://github.com/a-nayem", icon: ":octocat:" },
+  { label: "GitHub", href: "https://github.com/a-nayem", icon: "🐙" },
   { label: "Trisien Automence", href: "https://trisien-automence.vercel.app", icon: "🌐" },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/cyber-a-n/", icon: "🔗" },
   { label: "Instagram", href: "https://instagram.com/cyber_a.n_", icon: "💬" },
